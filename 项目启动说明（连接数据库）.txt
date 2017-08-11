@@ -1,0 +1,12 @@
+需要安装mongoDB数据库，想启动此项目必须先启动数据库
+
+启动方法：
+
+cmd ---> cd: C:\Program Files\MongoDB\Server\3.4.2\bin
+
+---> mongod --dbpath=D:\BaiduNetdiskDownload\Blog3\db --port=27019
+
+回车，就可以启动开项目所在位置的数据库，和对应的端口号。
+
+然后打开项目，就可以进行浏览修改了
+
